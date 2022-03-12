@@ -308,9 +308,17 @@ For the purposes of this Regulation, the following definitions apply:
 
 ‘NAAT test’ means a molecular nucleic acid amplification test, such as reverse transcription polymerase chain reaction (RT-PCR), loop-mediated isothermal amplification (LAMP) and transcription-mediated amplification (TMA) techniques, used to detect the presence of the SARS-CoV-2 ribonucleic acid (RNA);
 
-(5)
+(5) 
 
-‘rapid antigen test’ means a test that relies on detection of viral proteins (antigens) using a lateral flow immunoassay that gives results in less than 30 minutes;
+‘antigen test’ means a test, of one of the following categories, that relies on detection of viral proteins (antigens) to reveal the presence of SARS-CoV2:
+
+(a) 
+
+rapid antigen tests, such as lateral flow immunoassays that give results in less than 30 minutes,
+
+(b) 
+
+antigenic assays performed in a laboratory setting, such as enzymelinked immunosorbent assays or automated immunoassays for detection of viral antigens
 
 (6)
 
