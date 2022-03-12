@@ -830,7 +830,7 @@ result of the test;
 
 (i)
 
-testing centre or facility (optional for rapid antigen test);
+testing centre or facility (optional for antigen test);
 
 (j)
 
