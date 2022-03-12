@@ -416,7 +416,7 @@ the identity of the holder;
 
 (b)
 
-information about the COVID-19 vaccine and the number of doses administered to the holder;
+information about the COVID-19 vaccine and the number of doses administered to the holder, regardless of the Member State in which they have been administered;
 
 (c)
 
@@ -425,6 +425,8 @@ certificate metadata, such as the certificate issuer or a unique certificate ide
 The personal data shall be included in the vaccination certificate in accordance with the specific data fields set out in point 1 of the Annex.
 
 The Commission is empowered to adopt delegated acts in accordance with Article 12 to amend point 1 of the Annex by modifying or removing data fields, or by adding data fields falling under the categories of personal data referred to in points (b) and (c) of the first subparagraph of this paragraph, where such an amendment is necessary to verify and confirm the authenticity, validity and integrity of the vaccination certificate, in the case of scientific progress in containing the COVID-19 pandemic, or to ensure interoperability with international standards.
+
+Member States may also issue vaccination certificates referred to in point (a) of Article 3(1) to persons participating in clinical trials that concern a COVID-19 vaccine and that have been approved by Member States’ ethical committees and competent authorities, regardless whether they have been administered the vaccine candidate or the dose administered to the control group. The information about the COVID-19 vaccine to be included in the vaccination certificate in accordance with the specific data fields set out in point 1 of the Annex shall not undermine the integrity of the clinical trial. Member States may accept vaccination certificates issued by other Member States in accordance with this paragraph in order to waive restrictions to free movement put in place, in accordance with Union law, to limit the spread of SARS-CoV-2.
 
 3.   The vaccination certificate shall be issued in a secure and interoperable format in accordance with Article 3(2) after the administration of each dose and shall clearly indicate whether or not the vaccination course has been completed.
 
