@@ -308,9 +308,17 @@ For the purposes of this Regulation, the following definitions apply:
 
 ‘NAAT test’ means a molecular nucleic acid amplification test, such as reverse transcription polymerase chain reaction (RT-PCR), loop-mediated isothermal amplification (LAMP) and transcription-mediated amplification (TMA) techniques, used to detect the presence of the SARS-CoV-2 ribonucleic acid (RNA);
 
-(5)
+(5) 
 
-‘rapid antigen test’ means a test that relies on detection of viral proteins (antigens) using a lateral flow immunoassay that gives results in less than 30 minutes;
+‘antigen test’ means a test, of one of the following categories, that relies on detection of viral proteins (antigens) to reveal the presence of SARS-CoV2:
+
+(a) 
+
+rapid antigen tests, such as lateral flow immunoassays that give results in less than 30 minutes,
+
+(b) 
+
+antigenic assays performed in a laboratory setting, such as enzymelinked immunosorbent assays or automated immunoassays for detection of viral antigens
 
 (6)
 
@@ -348,13 +356,13 @@ a certificate confirming that the holder has received a COVID-19 vaccine in the 
 
 (b)
 
-a certificate confirming that the holder has been subject to a NAAT test or a rapid antigen test listed in the common and updated list of COVID-19 rapid antigen tests established on the basis of the Council Recommendation of 21 January 2021 carried out by health professionals or by skilled testing personnel in the Member State issuing the certificate and indicating the type of test, the date on which it was carried out and the result of the test (test certificate);
+a certificate confirming that the holder has been subject to a NAAT test, or an antigen test listed in the EU common list of COVID-19 antigen tests agreed by the Health Security Committee, carried out by health professionals or by skilled testing personnel in the Member State issuing the certificate and indicating the type of test, the date on which it was carried out and the result of the test (test certificate);
 
 (c)
 
 a certificate confirming that, following a positive result of a NAAT test carried out by health professionals or by skilled testing personnel the holder has recovered from a SARS-CoV-2 infection (certificate of recovery).
 
-The Commission shall publish the list of COVID-19 rapid antigen tests established on the basis of the Council Recommendation of 21 January 2021, including any updates.
+The Commission shall publish the EU common list of COVID-19 antigen tests agreed by the Health Security Committee, including any updates.
 
 2.   Member States, or designated bodies acting on behalf of Member States, shall issue the certificates referred to in paragraph 1 of this Article in a digital or paper-based format, or both. The prospective holders shall be entitled to receive the certificates in the format of their choice. Those certificates shall be user-friendly and shall contain an interoperable barcode allowing for the verification of their authenticity, validity and integrity. The barcode shall comply with the technical specifications established pursuant to Article 9. The information contained in the certificates shall also be shown in human-readable form and shall be provided in at least the official language or languages of the issuing Member State and English.
 
@@ -382,7 +390,7 @@ Before adopting such implementing acts, the Commission shall assess whether such
 
 The implementing acts referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article 14(2).
 
-11.   Where necessary, the Commission shall ask the Health Security Committee, the ECDC or EMA to issue guidance on the available scientific evidence on the effects of medical events documented in the certificates referred to in paragraph 1, in particular with regard to new SARS-CoV-2 variants of concern.
+11.   Where necessary, the Commission shall ask the Health Security Committee, ECDC or EMA to issue guidance on the available scientific evidence on the effects of medical events documented in the certificates referred to in paragraph 1, in particular with regard to new SARS-CoV-2 variants of concern, and on the acceptance of COVID-19 vaccines undergoing clinical trials in the Member States.
 
 Article 4
 
@@ -408,7 +416,7 @@ the identity of the holder;
 
 (b)
 
-information about the COVID-19 vaccine and the number of doses administered to the holder;
+information about the COVID-19 vaccine and the number of doses administered to the holder, regardless of the Member State in which they have been administered;
 
 (c)
 
@@ -417,6 +425,8 @@ certificate metadata, such as the certificate issuer or a unique certificate ide
 The personal data shall be included in the vaccination certificate in accordance with the specific data fields set out in point 1 of the Annex.
 
 The Commission is empowered to adopt delegated acts in accordance with Article 12 to amend point 1 of the Annex by modifying or removing data fields, or by adding data fields falling under the categories of personal data referred to in points (b) and (c) of the first subparagraph of this paragraph, where such an amendment is necessary to verify and confirm the authenticity, validity and integrity of the vaccination certificate, in the case of scientific progress in containing the COVID-19 pandemic, or to ensure interoperability with international standards.
+
+Member States may also issue vaccination certificates referred to in point (a) of Article 3(1) to persons participating in clinical trials that concern a COVID-19 vaccine and that have been approved by Member States’ ethical committees and competent authorities, regardless whether they have been administered the vaccine candidate or the dose administered to the control group. The information about the COVID-19 vaccine to be included in the vaccination certificate in accordance with the specific data fields set out in point 1 of the Annex shall not undermine the integrity of the clinical trial. Member States may accept vaccination certificates issued by other Member States in accordance with this paragraph in order to waive restrictions to free movement put in place, in accordance with Union law, to limit the spread of SARS-CoV-2.
 
 3.   The vaccination certificate shall be issued in a secure and interoperable format in accordance with Article 3(2) after the administration of each dose and shall clearly indicate whether or not the vaccination course has been completed.
 
@@ -442,7 +452,7 @@ the identity of the holder;
 
 (b)
 
-information about the NAAT test or rapid antigen test to which the holder was subject;
+information about the NAAT test or antigen test to which the holder was subject;
 
 (c)
 
@@ -488,7 +498,7 @@ The Commission is empowered to adopt delegated acts in accordance with Article 1
 
 3.   The certificate of recovery shall be issued in a secure and interoperable format in accordance with Article 3(2).
 
-4.   On the basis of guidance received pursuant to Article 3(11), the Commission is empowered to adopt delegated acts in accordance with Article 12 to amend paragraph 1 of this Article and point (c) of Article 3(1) to allow for the issuance of the certificate of recovery on the basis of a positive rapid antigen test, antibody test, including a serological test for antibodies against SARS-CoV-2, or any other scientifically validated method. Such delegated acts shall also amend point 3 of the Annex by adding, modifying or removing the data fields falling under the categories of personal data referred to in points (b) and (c) of paragraph 2 of this Article.
+4.   On the basis of guidance received pursuant to Article 3(11), the Commission is empowered to adopt delegated acts in accordance with Article 12 to amend paragraph 1 of this Article and point (c) of Article 3(1) to allow for the issuance of the certificate of recovery on the basis of a positive antigen test, antibody test, including a serological test for antibodies against SARS-CoV-2, or any other scientifically validated method. Such delegated acts shall also amend point 3 of the Annex by adding, modifying or removing the data fields falling under the categories of personal data referred to in points (b) and (c) of paragraph 2 of this Article.
 
 5.   Following the adoption of the delegated acts referred to in paragraph 4 the Commission shall publish the list of antibody tests on the basis of which a certificate of recovery may be issued, which is to be established by the Health Security Committee, including any updates.
 
@@ -610,7 +620,7 @@ Exercise of the delegation
 
 1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
 
-2.   The power to adopt delegated acts referred to in Article 5(2), Article 6(2) and Article 7(1) and (2) shall be conferred on the Commission for a period of 12 months from 1 July 2021.
+2.   The power to adopt delegated acts referred to in Article 5(2), Article 6(2) and Article 7(1) and (2) shall be conferred on the Commission for a period of 24 months from 1 July 2021.
 
 3.   The delegation of power referred to in Article 5(2), Article 6(2) and Article 7(1) and (2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
 
@@ -626,7 +636,7 @@ Urgency procedure
 
 1.   Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
 
-2.   Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 11(6). In such a case, the Commission shall repeal the act immediately following the notification of the decision to object by the European Parliament or by the Council.
+2.   Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 12(6). In such a case, the Commission shall repeal the act immediately following the notification of the decision to object by the European Parliament or by the Council. 
 
 Article 14
 
@@ -676,7 +686,7 @@ Entry into force
 
 This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
 
-It shall apply from 1 July 2021 to 30 June 2022.
+It shall apply from 1 July 2021 to 30 June 2023.
 
 This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
@@ -820,7 +830,7 @@ result of the test;
 
 (i)
 
-testing centre or facility (optional for rapid antigen test);
+testing centre or facility (optional for antigen test);
 
 (j)
 
